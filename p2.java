@@ -18,7 +18,7 @@ System.out.println("Sys interuppted: "+e);
 class p2{
 public static void main(String[]args){
 Mythread t= new Mythread();
-t.setName("Pooja's thread");
+t.setName("Geus's thread");
 System.out.println("after change now:"+t);
 t.start();
 }
