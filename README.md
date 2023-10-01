@@ -6,3 +6,10 @@ Few of my java work
 1.This java code creates a thread that counts from 5 to 1 with an interval of 1 second (1000 millisecond).
 <br>
 2.It also changes the thread's name to "Geus's thread".
+<br>
+
+# Codes
+<br>
+
+1.Reversing the words of sentence.
+<br>
