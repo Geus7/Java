@@ -11,5 +11,5 @@ Few of my java work
 # Codes
 <br>
 
-1.Reversing the words of sentence.
+1.Reversing the words of a sentence.
 <br>
