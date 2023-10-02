@@ -13,3 +13,5 @@ Few of my java work
 
 1.Reversing the words of a sentence.
 <br>
+2.Character input program that quits when you enter 'q'.
+<br>
