@@ -15,3 +15,5 @@ Few of my java work
 <br>
 2.Character input program that quits when you enter 'q'.
 <br>
+3.Adding of two numbers in java.
+<br>
