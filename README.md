@@ -19,3 +19,5 @@ Few of my java work
 <br>
 4.Finding the factorial of an integer till 19 using recursion.
 <br>
+5.Sorting an array by taking input.
+<br>
