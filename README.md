@@ -11,15 +11,15 @@ Few of my java work
 # Codes
 <br>
 
-##1.Reversing the words of a sentence.
+## 1.Reversing the words of a sentence.
 <br>
-##2.Character input program that quits when you enter 'q'.
+## 2.Character input program that quits when you enter 'q'.
 <br>
-##3.Adding of two numbers in java.
+## 3.Adding of two numbers in java.
 <br>
-##4.Finding the factorial of an integer till 19 using recursion.
+## 4.Finding the factorial of an integer till 19 using recursion.
 <br>
-##5.Sorting an array by taking input.
+## 5.Sorting an array by taking input.
 <br>
-##6.Finding the gcd using euclidean algorithm.
+## 6.Finding the gcd using euclidean algorithm.(With different remainder changes in reverse)
 <br>
